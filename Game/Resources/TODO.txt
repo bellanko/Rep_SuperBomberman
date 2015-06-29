@@ -1,0 +1,11 @@
+* Colliders
+* Bombas: Colocar, animacion, explotar, 
+* Enemigos
+* Loss: Cochar bicho o bomba
+* Win: Petar bicho o llegar meta.
+
+
+- Secundario
+* Animacion paredes falsas. 
+** Arreglar elements.png
+*** Matrius

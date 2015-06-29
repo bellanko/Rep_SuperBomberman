@@ -1,0 +1,49 @@
+﻿Compilación iniciada a las 12/06/2015 9:28:39.
+     1>Proyecto "F:\Super-Bomberman--SNES- GRUP 4\SDL Game.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Application.cpp log.cpp Main.cpp ModuleAudio.cpp ModuleBoss.cpp ModuleCollision.cpp ModuleDrawMap.cpp ModuleEnemy.cpp ModuleLevelBoss.cpp ModuleParticles.cpp ModuleLevelOne.cpp ModuleFadeToBlack.cpp ModuleInput.cpp ModulePlayer.cpp ModuleRender.cpp ModuleSceneIntro.cpp ModuleTextures.cpp ModuleWindow.cpp
+         ModuleWindow.cpp
+         ModuleTextures.cpp
+         ModuleSceneIntro.cpp
+         ModuleRender.cpp
+         ModulePlayer.cpp
+         ModuleInput.cpp
+         ModuleFadeToBlack.cpp
+         ModuleLevelOne.cpp
+         ModuleParticles.cpp
+         ModuleLevelBoss.cpp
+         ModuleEnemy.cpp
+         ModuleDrawMap.cpp
+         ModuleCollision.cpp
+         ModuleBoss.cpp
+         ModuleAudio.cpp
+         Main.cpp
+         log.cpp
+         Application.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Super-Bomberman--SNES- GRUP 4\Debug\SDL Game.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Super-Bomberman--SNES- GRUP 4\Debug\SDL Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Super-Bomberman--SNES- GRUP 4\Debug\SDL Game.lib" /MACHINE:X86 Debug\Application.obj
+         Debug\log.obj
+         Debug\Main.obj
+         Debug\ModuleAudio.obj
+         Debug\ModuleBoss.obj
+         Debug\ModuleCollision.obj
+         Debug\ModuleDrawMap.obj
+         Debug\ModuleEnemy.obj
+         Debug\ModuleLevelBoss.obj
+         Debug\ModuleParticles.obj
+         Debug\ModuleLevelOne.obj
+         Debug\ModuleFadeToBlack.obj
+         Debug\ModuleInput.obj
+         Debug\ModulePlayer.obj
+         Debug\ModuleRender.obj
+         Debug\ModuleSceneIntro.obj
+         Debug\ModuleTextures.obj
+         Debug\ModuleWindow.obj
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: la biblioteca predeterminada'msvcrt.lib' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+         SDL Game.vcxproj -> F:\Super-Bomberman--SNES- GRUP 4\Debug\SDL Game.exe
+     1>Compilación del proyecto terminada "F:\Super-Bomberman--SNES- GRUP 4\SDL Game.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:35.61

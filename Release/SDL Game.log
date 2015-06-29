@@ -1,0 +1,43 @@
+﻿Compilación iniciada a las 22/04/2015 8:43:36.
+     1>Proyecto "C:\Users\javierbo2\Downloads\Super-Bomberman--SNES--master\SDL Game.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\soft\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Application.cpp log.cpp Main.cpp ModuleAudio.cpp ModuleCollision.cpp ModuleDrawMap.cpp ModuleParticles.cpp ModuleLevelOne.cpp ModuleFadeToBlack.cpp ModuleInput.cpp ModulePlayer.cpp ModuleRender.cpp ModuleSceneIntro.cpp ModuleTextures.cpp ModuleWindow.cpp
+         Application.cpp
+         log.cpp
+         Main.cpp
+         ModuleAudio.cpp
+         ModuleCollision.cpp
+         ModuleDrawMap.cpp
+         ModuleParticles.cpp
+         ModuleLevelOne.cpp
+         ModuleFadeToBlack.cpp
+         ModuleInput.cpp
+         ModulePlayer.cpp
+         ModuleRender.cpp
+         ModuleSceneIntro.cpp
+         ModuleTextures.cpp
+         ModuleWindow.cpp
+       Link:
+         C:\soft\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\javierbo2\Downloads\Super-Bomberman--SNES--master\Release\SDL Game.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\javierbo2\Downloads\Super-Bomberman--SNES--master\Release\SDL Game.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\javierbo2\Downloads\Super-Bomberman--SNES--master\Release\SDL Game.lib" /MACHINE:X86 /SAFESEH Release\Application.obj
+         Release\log.obj
+         Release\Main.obj
+         Release\ModuleAudio.obj
+         Release\ModuleCollision.obj
+         Release\ModuleDrawMap.obj
+         Release\ModuleParticles.obj
+         Release\ModuleLevelOne.obj
+         Release\ModuleFadeToBlack.obj
+         Release\ModuleInput.obj
+         Release\ModulePlayer.obj
+         Release\ModuleRender.obj
+         Release\ModuleSceneIntro.obj
+         Release\ModuleTextures.obj
+         Release\ModuleWindow.obj
+         Generando código
+         Generación de código finalizada
+         SDL Game.vcxproj -> C:\Users\javierbo2\Downloads\Super-Bomberman--SNES--master\Release\SDL Game.exe
+     1>Compilación del proyecto terminada "C:\Users\javierbo2\Downloads\Super-Bomberman--SNES--master\SDL Game.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:23.57
